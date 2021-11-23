@@ -5,6 +5,10 @@ const yosay = require('yosay');
 
 module.exports = class extends Generator {
   async prompting() {
+    this.log(
+      yosay("Welcome to ts-scaffold! I'll create a TS project for you")
+    );
+
     this.answers = await this.prompt([
     {
       type: 'input',
