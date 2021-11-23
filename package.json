@@ -1,11 +1,11 @@
 {
   "name": "generator-ts-scaffold",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate a scaffold for TypeScript projects",
   "homepage": "",
   "author": {
     "name": "Arturo Fernandez",
-    "email": " 134515+bsnux@users.noreply.github.com",
+    "email": "134515+bsnux@users.noreply.github.com",
     "url": "https://bsnux.github.io/"
   },
   "files": [
